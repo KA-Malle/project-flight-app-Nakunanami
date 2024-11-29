@@ -69,7 +69,7 @@ namespace FlightApp
                     string departure = xlWerkblad.Cells[rij, 2].Value.ToString(); 
                     string arrivel_city = xlWerkblad.Cells[rij, 4].Value.ToString(); 
                     string actual_capacity = xlWerkblad.Cells[rij, 6].Value.ToString();
-                    string max_capacity = xlWerkblad.Cells[rij, 7].Value.ToString();
+                    string max_capacity = xlWerkblad.Cells[rij, 5].Value.ToString();
                     string type_of_flight = xlWerkblad.Cells[rij, 9].Value.ToString();
 
                     
