@@ -19,3 +19,14 @@ C:\Users\Sluyts Roxy\OneDrive - Academic Office\school\Software ontwikkeling\Git
 C:\Users\Sluyts Roxy\OneDrive - Academic Office\school\Software ontwikkeling\Git projecten\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\bin\Debug\FlightApp.exe.config
 C:\Users\Sluyts Roxy\OneDrive - Academic Office\school\Software ontwikkeling\Git projecten\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\bin\Debug\FlightApp.exe
 C:\Users\Sluyts Roxy\OneDrive - Academic Office\school\Software ontwikkeling\Git projecten\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\bin\Debug\FlightApp.pdb
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\bin\Debug\FlightApp.exe.config
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\bin\Debug\FlightApp.exe
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\bin\Debug\FlightApp.pdb
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.csproj.AssemblyReference.cache
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.csproj.ResolveComReference.cache
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.FormFlightApp.resources
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.Properties.Resources.resources
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.csproj.GenerateResource.cache
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.csproj.CoreCompileInputs.cache
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.exe
+C:\Users\Sluyts Roxy\Desktop\project-flight-app-Nakunanami\FlightApp_START\FlightApp\FlightApp\obj\Debug\FlightApp.pdb
